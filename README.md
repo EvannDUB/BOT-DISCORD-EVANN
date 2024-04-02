@@ -4,8 +4,11 @@ Bot name : Grappso
 discord : https://discord.gg/3R7CJYST 
 
  fonctionnalitées : 
+
 !servers : pour voir les serveurs ou se trouve le bot
+
 !ban : pour ban un membre
+
 !pp {user} : pour afficher la photo de profil d'un utilisateur
 
  Prérequis : 
